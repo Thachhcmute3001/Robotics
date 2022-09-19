@@ -1,0 +1,58 @@
+Bài 1
+Px = l5*cos(t4 + t5 + t6)
+Py = l5*sin(t4 + t5 + t6)
+Pz = l1 + l2 + l3 + l4
+-------------------------
+Bài 2
+Px = l4*cos(t1 + t2) + l2*cos(t1)
+Py = l4*sin(t1 + t2) + l2*sin(t1)
+Pz = l1 + l3 - l5
+-------------------------
+Bài 3
+Px = l7*cos(t1 + t2 + t3 + t4) - l6*sin(t1 + t2 + t3 + t4) + l4*cos(t1 + t2) + l2*cos(t1) + l5*cos(t1 + t2 + t3)
+Py = l6*cos(t1 + t2 + t3 + t4) + l7*sin(t1 + t2 + t3 + t4) + l4*sin(t1 + t2) + l2*sin(t1) + l5*sin(t1 + t2 + t3)
+Pz = l1 + l3 - l8
+-------------------------
+Bài 4a
+Px = l4*cos(t1 + t2) + l2*cos(t1)
+Py = l4*sin(t1 + t2) + l2*sin(t1)
+Pz = l1 + l3 - l5
+Bài 4b
+Px = l1 + l6*cos(t2 + t4)*cos(t1) - cos(t1)*sin(t2)*(l4 + l5)
+Py = l2 + l6*cos(t2 + t4)*sin(t1) - sin(t1)*sin(t2)*(l4 + l5)
+Pz = l3 - cos(t2)*(l4 + l5) - l6*sin(t2 + t4)
+-------------------------
+Bài 5a
+Px = - l2*sin(t1 + t3) - l1*sin(t1)
+Py = 0
+Pz = - l2*cos(t1 + t3) - l1*cos(t1)
+Bài 5b
+Px = 0
+Py = sin(t2)*(l1 + l2*cos(t3))
+Pz = -cos(t2)*(l1 + l2*cos(t3))
+-------------------------
+Bài 6
+Px = -sin(t1)*(l5*cos(t2 + t3) + l4*cos(t2) + l6*cos(t2 + t3 + t4))
+Py = cos(t1)*(l5*cos(t2 + t3) + l4*cos(t2) + l6*cos(t2 + t3 + t4))
+Pz = l1 + l3 + l5*sin(t2 + t3) + l4*sin(t2) + l6*sin(t2 + t3 + t4)
+-------------------------
+Bài 7
+Px = - l5*sin(t1 + t2) - l4*sin(t1)
+Py = l5*cos(t1 + t2) + l4*cos(t1)
+Pz = l1 + l2 + l3 - l6 - l7
+-------------------------
+Bài 8
+Px = l1*cos(t1) - l5*(cos(t4)*(cos(t1)*cos(t2)*sin(t3) + cos(t1)*cos(t3)*sin(t2)) - sin(t4)*(cos(t1)*sin(t2)*sin(t3) - cos(t1)*cos(t2)*cos(t3))) - l6*(cos(t4)*(cos(t1)*cos(t2)*sin(t3) + cos(t1)*cos(t3)*sin(t2)) - sin(t4)*(cos(t1)*sin(t2)*sin(t3) - cos(t1)*cos(t2)*cos(t3))) - l4*(cos(t1)*cos(t2)*sin(t3) + cos(t1)*cos(t3)*sin(t2)) - l3*cos(t1)*sin(t2)
+Py = l2 + l4*(cos(t2)*cos(t3) - sin(t2)*sin(t3)) + l3*cos(t2) + l5*(cos(t4)*(cos(t2)*cos(t3) - sin(t2)*sin(t3)) - sin(t4)*(cos(t2)*sin(t3) + cos(t3)*sin(t2))) + l6*(cos(t4)*(cos(t2)*cos(t3) - sin(t2)*sin(t3)) - sin(t4)*(cos(t2)*sin(t3) + cos(t3)*sin(t2)))
+Pz = l4*(cos(t2)*sin(t1)*sin(t3) + cos(t3)*sin(t1)*sin(t2)) + l5*(cos(t4)*(cos(t2)*sin(t1)*sin(t3) + cos(t3)*sin(t1)*sin(t2)) - sin(t4)*(sin(t1)*sin(t2)*sin(t3) - cos(t2)*cos(t3)*sin(t1))) + l6*(cos(t4)*(cos(t2)*sin(t1)*sin(t3) + cos(t3)*sin(t1)*sin(t2)) - sin(t4)*(sin(t1)*sin(t2)*sin(t3) - cos(t2)*cos(t3)*sin(t1))) - l1*sin(t1) + l3*sin(t1)*sin(t2)
+-------------------------
+Bài 9
+Px = - l5*sin(t1 + t2) - l4*sin(t1)
+Py = l5*cos(t1 + t2) + l4*cos(t1)
+Pz = l1 + l2 + l3 - l6 - l7
+l1 + l2 + l3 - l6 - l7
+-------------------------
+Bài 10
+Px = -sin(t1)*(l4*cos(t2 + t3) + l3*cos(t2) + l5*cos(t2 + t3 + t4) - l6*sin(t2 + t3 + t4))
+Py = cos(t1)*(l4*cos(t2 + t3) + l3*cos(t2) + l5*cos(t2 + t3 + t4) - l6*sin(t2 + t3 + t4))
+Pz = l1 + l2 + l4*sin(t2 + t3) + l3*sin(t2) + l6*cos(t2 + t3 + t4) + l5*sin(t2 + t3 + t4)
